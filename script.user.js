@@ -33,6 +33,7 @@ html, body {
   overscroll-behavior-x: none;
 }
 `);
+			console.log("[DBN]", "Style added successfully");
 		} catch (e) {
 			console.warn(e);
 		}
