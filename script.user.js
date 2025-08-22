@@ -3,7 +3,7 @@
 // @name:ja             タッチパッドで前ページに戻る機能無効化(overscroll-behavior: none;)
 // @name:en             Disable Back Navigation via Touchpad (overscroll-behavior: none;)
 // @namespace           https://github.com/hi2ma-bu4
-// @version             1.0.0
+// @version             1.0.1
 // @description         Remove overscroll on the main page content and suppress previous page navigation.
 // @description:ja      ページ本体のみのoverscrollを無くして、prevPageを抑制
 // @description:en      Remove overscroll on the main page content and suppress previous page navigation.
